@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nbdavisd
 - 👀 I’m interested in data science and ML projects
-- 🌱 I’m currently studyint to get the TensorFlow Certification
+- 🌱 I’m currently studying to get the TensorFlow Certification
 - 💞️ I’m looking to collaborate on data science and energy reletad projects
 - 📫 How to reach me: davidediaz82@gmail.com
 
